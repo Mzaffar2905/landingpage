@@ -42,6 +42,11 @@ a {
   display: inline-block;
 }
 
+.btn-primary:hover{
+  color: rgb(167, 165, 165);
+  opacity: 0.8;
+}
+
 
 .center-text{
     text-align: center;
@@ -87,9 +92,15 @@ div {
 }
 .footer a {
   font-size: 30px;
-  color: #dd1ea4;
+  color: #359eb8;
 }
+
 
 .footer p {
   color: #6B6C6C;
+}
+
+a:hover{
+  color: rgb(230, 221, 221);
+  background-color: rgb(40, 111, 202);
 }
